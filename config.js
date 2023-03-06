@@ -44,36 +44,36 @@ const readMore = more.repeat(4001)
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 
-global.sgh = 'https://github.com/ZykoBotz-MD' // github
-global.sgc = 'https://chat.whatsapp.com/INq67rkTp8iAwiVvLOFAYH' // group whatsapp
-global.sdc = 'https://www.discord.com'//discord
-global.snh = 'https://youtu.be/E1Cb97Rb-8U' // my youtube channel
-global.sfb = 'https://www.facebook.com/' // facebook
-global.syt = 'https://www.youtube.com/@ZykoBotzMD'
-global.tik = 'https://www.tiktok.com/@zykosiapa' 
-global.tautanwa = 'https://wa.me/message/CXI3LHFLC6NON1'
-global.wame = 'https://wa.me/message/CXI3LHFLC6NON1' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
+global.sgh = '-' // github
+global.sgc = '-' // group whatsapp
+global.sdc = '-'//discord
+global.snh = '-' // my youtube channel
+global.sfb = '-' // facebook
+global.syt = '-'
+global.tik = '-' 
+global.tautanwa = '-'
+global.wame = 'wa.me/6282134897549' // kalau gk punya bisa ganti pake gini wa.me/6283133329293
 
 /*============== PAYMENT ==============*/
-global.pdana = '0852 1264 9276' //dana
-global.povo = '0852 1264 9276' //ovo
-global.pgopay = '0852 1264 9276' //gopay
-global.plinkaja = '0852 1264 9276' //link aja
-global.ppulsa = '0852 1264 9276' //telkomsel
-global.ppulsa2 = '0831 3332 9293' // kalau ada kartu lain isi aja
+global.pdana = '0821 3603 1499 ' //dana
+global.povo = '0821 3603 1499' //ovo
+global.pgopay = '0821 3603 1499' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '0821 3489 7549' //telkomsel
+global.ppulsa2 = '0877 0822 5363' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282124690625'
-global.nomorown = '6283133329293'
-global.nomorown1 = '6283133329293' //pake No Pacar lo Juga Boleh
-global.namebot = 'ZYKOBOTZ MD'
-global.nameown = 'ZYKO MD'
-global.nameown1 = 'LISA AMELIA' //Pake Nama Pacar Lo Juga Boleh
+global.nomorbot = '6282134897549'
+global.nomorown = '6282134897549'
+global.nomorown1 = '6282134897549' //pake No Pacar lo Juga Boleh
+global.namebot = 'PENGBOTZ MD'
+global.nameown = 'Peng MD'
+global.nameown1 = 'LENA' //Pake Nama Pacar Lo Juga Boleh
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ INFO BIO DATA OWN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/kabulsaputra21' // ig lo
-global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : https://instagram.com/lisaamelia8680' // ig cewek lo
+global.sig = '📷 ɪɴsᴛᴀɢʀᴀᴍ : -' // ig lo
+global.sigpcr = '📷 ɪɴsᴛᴀɢʀᴀᴍ : -' // ig cewek lo
 /*============== Github Thanks To ==============*/
 global.namagithub = 'Nama Github Belum Diisi' // nama github lu
 global.linkgithub = 'Link Githu Belum Diisi' // tarok link github lu
@@ -93,23 +93,23 @@ global.mods = []
 global.prems = [] 
 
 /*============== WATERMARK ==============*/
-global.gcname = 'ZYKOBOTZ MD'//nama group kalian
+global.gcname = 'PENGBOTZ MD'//nama group kalian
 global.readMore = readMore
-global.wm = '                「 ZYKOBOTZ MD 」'
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ZYKOBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ ZYKOBOTZ MD '
+global.wm = '                「 PENGBOTZ MD 」'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘PENGBOTZ MD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ PENGBOTZ MD '
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By ZYKO MD`
+global.titlebot = `⫹⫺ WhatsApp Bot | By Penh MD`
 global.packname = '☂︎ ᴄʀᴇᴀᴛᴇᴅ ʙʏ'
-global.author = '              「 ZYKOBOTZ MD  あ」'
+global.author = '              「 PENGBOTZ MD  あ」'
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 global.danied = pickRandom(["✘ 𝗘𝗿𝗼𝗿 𝟰𝟬𝟰","𝘼𝙠𝙨𝙚𝙨 𝘿𝙞𝙩𝙤𝙡𝙖𝙠","⚠️ 𝘼𝙘𝙘𝙨𝙚𝙨 𝘿𝙖𝙣𝙞𝙚𝙙 ⚠️"])
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZYKOBOTZ MD'
-global.stickauth = `By ©ZYKO MD`
+global.stickpack = 'PENGBOTZ MD'
+global.stickauth = `By ©LENA MD`
  
 /*============== LOGO ==============*/
 global.fotonya1 = 'https://telegra.ph/file/bd078351110aaaaf3aa59.jpg' 
